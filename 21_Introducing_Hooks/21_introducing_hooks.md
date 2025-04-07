@@ -41,7 +41,6 @@ The basic hooks are:
 
 - useState
 - useEffect
-- useContext
 
 ### State Hook
 
@@ -393,7 +392,7 @@ ReactDOM.render(<App />, rootElement)
 
 ### Effect Hook
 
-### Context Hook
+
 
 ## Additional Hook
 
